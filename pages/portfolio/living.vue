@@ -51,7 +51,7 @@ export default {
         '//data.hartzoginteriors.com/living-21-full.jpg',
         '//data.hartzoginteriors.com/living-16-full.jpg',
         '//data.hartzoginteriors.com/living-18-full.jpg',
-        '//data.hartzoginteriors.com/living-17-full.jpg',
+        '//data.hartzoginteriors.com/Forest Park-12-portrait.jpg',
       ];
     },
   },

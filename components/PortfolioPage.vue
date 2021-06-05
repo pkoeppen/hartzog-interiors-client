@@ -1,10 +1,7 @@
 <template>
   <main>
     <section class="relative darken">
-      <div
-        class="absolute inset-0 z-10 opacity-30"
-        :class="{ 'bg-white': light, 'bg-black': dark }"
-      />
+      <div class="absolute inset-0 z-10 opacity-30 bg-black" />
       <div
         class="flex flex-col items-center bg-fixed bg-center bg-cover py-56 space-y-12 text-center"
         :style="`background-image: url(${banner});`"

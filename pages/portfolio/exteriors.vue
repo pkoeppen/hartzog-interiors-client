@@ -39,7 +39,7 @@ export default {
         '//data.hartzoginteriors.com/exteriors-9-full.jpg',
         '//data.hartzoginteriors.com/exteriors-6-full.jpg',
         '//data.hartzoginteriors.com/exteriors-7-full.jpg',
-        '//data.hartzoginteriors.com/exteriors-8-full.jpg',
+        '//data.hartzoginteriors.com/Hazelett-1-portrait.jpg',
         '//data.hartzoginteriors.com/exteriors-3-full.jpg',
       ];
     },
