@@ -37,7 +37,7 @@ export default {
         '//data.hartzoginteriors.com/kitchens-4-full.jpg',
         '//data.hartzoginteriors.com/kitchens-15-full.jpg',
         '//data.hartzoginteriors.com/Hazelett-27.jpg',
-        '//data.hartzoginteriors.com/kitchens-18-full.jpg',
+        '//data.hartzoginteriors.com/Lily Rd2 (6 of 13).jpg',
         '//data.hartzoginteriors.com/Forest Park-25.jpg',
         '//data.hartzoginteriors.com/kitchens-13-full.jpg',
         '//data.hartzoginteriors.com/kitchens-16-full.jpg',

@@ -35,14 +35,14 @@ Comfortable and elegant—that's what a bathroom should be. Time spent in a well
     images() {
       return [
         '//data.hartzoginteriors.com/bathrooms-2-full.jpg',
-        '//data.hartzoginteriors.com/bathrooms-6-full.jpg',
+        '//data.hartzoginteriors.com/Lily Revised (22 of 34).jpg',
         '//data.hartzoginteriors.com/bathrooms-18-full.jpg',
         '//data.hartzoginteriors.com/bathrooms-16-full.jpg',
         '//data.hartzoginteriors.com/bathrooms-19-full.jpg',
         '//data.hartzoginteriors.com/bathrooms-20-full.jpg',
-        '//data.hartzoginteriors.com/bathrooms-11-full.jpg',
+        '//data.hartzoginteriors.com/Lily Revised (24 of 34).jpg',
         '//data.hartzoginteriors.com/bathrooms-15-full.jpg',
-        '//data.hartzoginteriors.com/bathrooms-13-full.jpg',
+        '//data.hartzoginteriors.com/Hazelett-54.jpg',
         '//data.hartzoginteriors.com/bathrooms-14-full.jpg',
       ];
     },

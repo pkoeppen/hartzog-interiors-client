@@ -36,7 +36,7 @@ export default {
       return [
         '//data.hartzoginteriors.com/exteriors-2-full.jpg',
         '//data.hartzoginteriors.com/Hazelett-6.jpg',
-        '//data.hartzoginteriors.com/exteriors-9-full.jpg',
+        '//data.hartzoginteriors.com/Lily Revised (17 of 34).jpg',
         '//data.hartzoginteriors.com/exteriors-6-full.jpg',
         '//data.hartzoginteriors.com/exteriors-7-full.jpg',
         '//data.hartzoginteriors.com/Hazelett-1-portrait.jpg',

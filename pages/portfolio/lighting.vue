@@ -38,7 +38,7 @@ export default {
         '//data.hartzoginteriors.com/lighting-17-full.jpg',
         '//data.hartzoginteriors.com/lighting-15-full.jpg',
         '//data.hartzoginteriors.com/lighting-10-full.jpg',
-        '//data.hartzoginteriors.com/lighting-8-full.jpg',
+        '//data.hartzoginteriors.com/Lily Rd-5.jpg',
         '//data.hartzoginteriors.com/lighting-13-full.jpg',
         '//data.hartzoginteriors.com/lighting-11-full.jpg',
         '//data.hartzoginteriors.com/lighting-7-full.jpg',

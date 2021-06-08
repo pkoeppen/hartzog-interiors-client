@@ -38,7 +38,7 @@
       <photo-grid-tile
         title="Living Areas"
         to="/portfolio/living"
-        src="//data.hartzoginteriors.com/living.jpg"
+        src="//data.hartzoginteriors.com/Forest Park-8.jpg"
       />
       <photo-grid-tile
         title="Kitchen &amp; Dining"
@@ -53,7 +53,7 @@
       <photo-grid-tile
         title="Lighting"
         to="/portfolio/lighting"
-        src="//data.hartzoginteriors.com/lighting-15-full.jpg"
+        src="//data.hartzoginteriors.com/Lily Rd-99.jpg"
       />
       <photo-grid-tile
         title="Furniture &amp; Accessories"
@@ -63,7 +63,7 @@
       <photo-grid-tile
         title="Exteriors"
         to="/portfolio/exteriors"
-        src="//data.hartzoginteriors.com/exteriors.jpg"
+        src="//data.hartzoginteriors.com/Lily Revised (19 of 34).jpg"
       />
     </section>
 
