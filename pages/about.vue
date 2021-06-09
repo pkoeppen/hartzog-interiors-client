@@ -11,7 +11,7 @@
       <div class="w-full md:w-1/4 md:mr-10 mb-14 md:mb-0 flex-shrink-0">
         <img
           class="object-contain w-full max-w-md mb-5 mx-auto"
-          src="//data.hartzoginteriors.com/portrait.jpg"
+          src="//data.hartzoginteriors.com/katie-hartzog.jpg"
           alt="Katie Hartzog"
         />
         <div
@@ -53,24 +53,6 @@
     <section
       class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-16 md:gap-10 container max-w-6xl px-3 md:px-0 mb-32"
     >
-      <div class="w-full">
-        <img
-          class="object-contain w-full max-w-md mb-5 mx-auto"
-          src="//data.hartzoginteriors.com/katie-hartzog.jpg"
-          alt="Katie Hartzog"
-        />
-        <div
-          class="font-display uppercase tracking-header-sm text-gray-600 text-center mb-2"
-        >
-          Katie Hartzog
-        </div>
-        <div
-          class="font-display uppercase tracking-header-sm text-gray-400 text-xs text-center"
-        >
-          Owner, Lead Designer
-        </div>
-      </div>
-
       <div class="w-full">
         <img
           class="object-contain w-full max-w-md mb-5 mx-auto"
