@@ -7,7 +7,7 @@ export const state = () => ({
       visible: false,
       data: {},
     },
-    video: {
+    player: {
       visible: false,
       data: {},
     },

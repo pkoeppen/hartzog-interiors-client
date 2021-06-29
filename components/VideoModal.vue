@@ -7,7 +7,7 @@
     <div
       class="absolute inset-0 z-30"
       @click="
-        hideModal({ modal: 'video' });
+        hideModal({ modal: 'player' });
         destroyVideo();
       "
     />
@@ -27,7 +27,7 @@
           <i
             class="fas fa-times cursor-pointer text-gray-300 hover:text-white"
             @click="
-              hideModal({ modal: 'video' });
+              hideModal({ modal: 'player' });
               destroyVideo();
             "
           />
@@ -51,6 +51,22 @@
         </div>
       </div>
     </div>
+
+    <!-- Controls -->
+    <div class="absolute inset-0 flex justify-between items-center">
+      <div
+        class="p-10 cursor-pointer text-gray-300 hover:text-white z-50"
+        @click="previous()"
+      >
+        <i class="fas fa-caret-left fa-4x" />
+      </div>
+      <div
+        class="p-10 cursor-pointer text-gray-300 hover:text-white z-50"
+        @click="next()"
+      >
+        <i class="fas fa-caret-right fa-4x" />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -65,11 +81,17 @@ export default {
   },
   computed: {
     ...mapState({
-      visible: (state) => state.modals.video.visible,
-      data: (state) => state.modals.video.data,
+      visible: (state) => state.modals.player.visible,
+      data: (state) => state.modals.player.data,
     }),
+    videos() {
+      return this.data.videos || [];
+    },
+    selected() {
+      return this.data.selected || 0;
+    },
     videoSource() {
-      return this.data.src;
+      return this.videos[this.selected];
     },
   },
   watch: {
@@ -102,6 +124,22 @@ export default {
         this.videoStyle = 'width: 100vw';
         this.controlsClass = 'pr-2';
       }
+    },
+    next() {
+      const selected =
+        this.selected === this.videos.length - 1 ? 0 : this.selected + 1;
+      this.setModalData({
+        modal: 'player',
+        data: { selected },
+      });
+    },
+    previous() {
+      const selected =
+        this.selected === 0 ? this.videos.length - 1 : this.selected - 1;
+      this.setModalData({
+        modal: 'player',
+        data: { selected },
+      });
     },
     destroyVideo() {
       this.$refs.video.pause();

@@ -2,7 +2,7 @@
   <section class="relative" :class="{ lighten, darken }">
     <div
       class="flex flex-col items-center bg-fixed bg-center bg-cover py-56 space-y-12 text-center"
-      :style="`background-image: url(${src})`"
+      :style="`background-image: url('${src}')`"
     >
       <div
         class="uppercase font-display text-2xl sm:text-3xl md:text-5xl tracking-header-md sm:tracking-header-lg z-20"

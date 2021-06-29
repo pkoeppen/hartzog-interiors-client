@@ -15,8 +15,13 @@
           transparent
           @click.native="
             showModal({
-              modal: 'video',
-              data: { src: '//data.hartzoginteriors.com/Hartzog-Facebook.mov' },
+              modal: 'player',
+              data: {
+                videos: [
+                  '//data.hartzoginteriors.com/Hartzog-Facebook.mp4',
+                  '//data.hartzoginteriors.com/Hartzog Interiors - Hazelett Road.mp4',
+                ],
+              },
             })
           "
         >

@@ -9,7 +9,7 @@
     <portfolio-section
       title="Living Areas"
       to="/portfolio/living"
-      src="//data.hartzoginteriors.com/living.jpg"
+      src="//data.hartzoginteriors.com/Forest Park-8.jpg"
       darken
     />
     <portfolio-section
@@ -27,7 +27,7 @@
     <portfolio-section
       title="Lighting"
       to="/portfolio/lighting"
-      src="//data.hartzoginteriors.com/lighting.jpg"
+      src="//data.hartzoginteriors.com/Lily Rd-99.jpg"
       darken
     />
     <portfolio-section
@@ -39,7 +39,7 @@
     <portfolio-section
       title="Exteriors"
       to="/portfolio/exteriors"
-      src="//data.hartzoginteriors.com/exteriors.jpg"
+      src="//data.hartzoginteriors.com/Lily Revised (19 of 34).jpg"
       darken
     />
 
