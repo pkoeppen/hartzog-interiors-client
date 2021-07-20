@@ -25,7 +25,7 @@
             })
           "
         >
-          <span>Watch Video</span>
+          <span>Watch Videos</span>
         </button-dark>
         <button-dark
           external="https://hartzoginteriors.square.site"
