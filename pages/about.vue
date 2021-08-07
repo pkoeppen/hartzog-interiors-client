@@ -56,6 +56,24 @@
       <div class="w-full">
         <img
           class="object-contain w-full max-w-md mb-5 mx-auto"
+          src="//data.hartzoginteriors.com/mark-hartzog.jpg"
+          alt="Mark Hartzog"
+        />
+        <div
+          class="font-display uppercase tracking-header-sm text-gray-600 text-center mb-2"
+        >
+          Mark Hartzog
+        </div>
+        <div
+          class="font-display uppercase tracking-header-sm text-gray-400 text-xs text-center"
+        >
+          Co-owner, Superintendent
+        </div>
+      </div>
+
+      <div class="w-full">
+        <img
+          class="object-contain w-full max-w-md mb-5 mx-auto"
           src="//data.hartzoginteriors.com/addie-morris.jpg"
           alt="Addie Morris"
         />
