@@ -25,7 +25,7 @@ export const actions = {
     context.commit('setAgentData', data);
   },
   nuxtServerInit(context, { req, redirect }) {
-    if (req.headers?.cookie) {
+    if (req?.headers?.cookie) {
       // Found cookies.
       try {
         const cookies = cookie.parse(req.headers.cookie);
